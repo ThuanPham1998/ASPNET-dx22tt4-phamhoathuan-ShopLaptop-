@@ -14,7 +14,7 @@ Hệ thống được phát triển nhằm hỗ trợ hoạt động bán laptop
 * Mã sinh viên: **170122021**
 * Lớp: **DX22TT4**
 * Trường: **Đại học Trà Vinh**
-* Giảng viên hướng dẫn: **ThS. Đoàn Phước Miền**
+* Giảng viên hướng dẫn: **TS. Nguyễn Nhứt Lam**
 
 ---
 
